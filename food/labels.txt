@@ -1,0 +1,10 @@
+0 fried_rice
+1 chai
+2 chapati
+3 idli
+4 jalebi
+5 kulfi
+6 pizza
+7 masala_dosa
+8 samosa
+9 paani_puri

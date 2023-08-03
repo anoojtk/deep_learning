@@ -1,0 +1,10 @@
+0 bear
+1 butterfly
+2 cat
+3 cow
+4 elephant
+5 goat
+6 lion
+7 snake
+8 tiger
+9 zebra
